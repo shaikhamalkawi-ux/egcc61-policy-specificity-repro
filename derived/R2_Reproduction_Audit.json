@@ -1,0 +1,64 @@
+{
+  "derivation_status": "PASS: R2 exploratory only; frozen V15 untouched",
+  "matrix_sha256": "0d9078b71e5113ca30a6dd59a8e4ef9ac8d113ae7e7b3ac802535c204d0062e2",
+  "chain_sha256": "01abdcfaa3d130d14f6de3868e4ace6d03cc35e0a89f4450d9ef57dd7d6a4c09",
+  "source_document_count": 9,
+  "clause_count": 17,
+  "jurisdictions": 6,
+  "all_primary_cells": 153,
+  "joint_pairs": [
+    {
+      "pair": "C01+C04",
+      "description": "Scope + general disclosure (positive control)",
+      "both_E": 9,
+      "first_only_E": 0,
+      "second_only_E": 0,
+      "neither_E": 0,
+      "n_documents": 9,
+      "loo_both_min": 8,
+      "loo_both_max": 8
+    },
+    {
+      "pair": "C04+C06",
+      "description": "Disclosure duty + attribution/citation format",
+      "both_E": 3,
+      "first_only_E": 6,
+      "second_only_E": 0,
+      "neither_E": 0,
+      "n_documents": 9,
+      "loo_both_min": 2,
+      "loo_both_max": 3
+    },
+    {
+      "pair": "C07+C08",
+      "description": "Assessment controls + authentic process/verification",
+      "both_E": 4,
+      "first_only_E": 3,
+      "second_only_E": 0,
+      "neither_E": 2,
+      "n_documents": 9,
+      "loo_both_min": 3,
+      "loo_both_max": 4
+    },
+    {
+      "pair": "C14+C17",
+      "description": "Accountability/due process + detector non-sole-evidence safeguard",
+      "both_E": 1,
+      "first_only_E": 6,
+      "second_only_E": 1,
+      "neither_E": 1,
+      "n_documents": 9,
+      "loo_both_min": 0,
+      "loo_both_max": 1
+    }
+  ],
+  "analytic_constraints": [
+    "post-hoc co-presence rather than originally predeclared hypothesis",
+    "non-E includes P and U; no policy-absence inference",
+    "C14 is broad accountability/procedure, not an appeal-right guarantee",
+    "C17 is explicit non-sole-evidence limitation, not detector quality measurement",
+    "one-per-jurisdiction and document-type results remain inherited V15 only",
+    "leave-one-document-out tests fixed rows but not sampling uncertainty",
+    "no observed compliance, legal adequacy, classroom decision or population prevalence"
+  ]
+}

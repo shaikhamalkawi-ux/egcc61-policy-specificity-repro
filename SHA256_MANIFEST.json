@@ -1,0 +1,12 @@
+{
+  "LICENSE_NOTICE.md": "9a6360da60df510e9885bc02352766649392d3f8351ea7593c3444732ef161aa",
+  "README.md": "6f9016df9e3a1301869a250fac0cacef717c4ccc249cb4ab14a533a338c560a4",
+  "V15_PRIMARY_9x17_MATRIX_LOCKED.csv": "0d9078b71e5113ca30a6dd59a8e4ef9ac8d113ae7e7b3ac802535c204d0062e2",
+  "V15_PRIMARY_CHAIN_LOCKED.csv": "01abdcfaa3d130d14f6de3868e4ace6d03cc35e0a89f4450d9ef57dd7d6a4c09",
+  "derived/R2_ExploratoryDocumentReplay.csv": "b3815ad179b277579f17ff9ece2d3c86eeaa1ec4f236235a286d4fea014c0022",
+  "derived/R2_ExploratoryLOO.csv": "5b938fa47e7e4d273e5bd78ec54b8029f330b1f5e8a6714857206f6f309a9620",
+  "derived/R2_ExploratoryPairSummary.csv": "9124896cd071f311079d6143c87aea4dbd7893e08d49b2a6733d6941819a43f3",
+  "derived/R2_Reproduction_Audit.json": "fd05d6999861271da1868a494fedb5f0460b444f20662caa2dd0c93996eaef83",
+  "reproduce_joint_clauses.py": "3950eedfdb03f41a3ce56378e583f8ec2cfed9ea4ff86cd6488ce0663dc86355",
+  "run.sh": "1a9c2be735d22a2817dca2b07d7b41834a189ba5016421fa7cf93df3f332708c"
+}

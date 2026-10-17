@@ -1,0 +1,37 @@
+pair,description,document,first_state,second_state,co_explicit,category
+C01+C04,Scope + general disclosure (positive control),ADU01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),AUS01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),UAEU01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),UOS01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),PNU01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),QATU01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),UOB01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),KU01,E,E,1,BOTH_E
+C01+C04,Scope + general disclosure (positive control),KAU01,E,E,1,BOTH_E
+C04+C06,Disclosure duty + attribution/citation format,ADU01,E,P,0,FIRST_ONLY_E
+C04+C06,Disclosure duty + attribution/citation format,AUS01,E,E,1,BOTH_E
+C04+C06,Disclosure duty + attribution/citation format,UAEU01,E,P,0,FIRST_ONLY_E
+C04+C06,Disclosure duty + attribution/citation format,UOS01,E,P,0,FIRST_ONLY_E
+C04+C06,Disclosure duty + attribution/citation format,PNU01,E,E,1,BOTH_E
+C04+C06,Disclosure duty + attribution/citation format,QATU01,E,P,0,FIRST_ONLY_E
+C04+C06,Disclosure duty + attribution/citation format,UOB01,E,P,0,FIRST_ONLY_E
+C04+C06,Disclosure duty + attribution/citation format,KU01,E,P,0,FIRST_ONLY_E
+C04+C06,Disclosure duty + attribution/citation format,KAU01,E,E,1,BOTH_E
+C07+C08,Assessment controls + authentic process/verification,ADU01,P,U,0,NEITHER_E
+C07+C08,Assessment controls + authentic process/verification,AUS01,E,E,1,BOTH_E
+C07+C08,Assessment controls + authentic process/verification,UAEU01,E,P,0,FIRST_ONLY_E
+C07+C08,Assessment controls + authentic process/verification,UOS01,E,E,1,BOTH_E
+C07+C08,Assessment controls + authentic process/verification,PNU01,E,E,1,BOTH_E
+C07+C08,Assessment controls + authentic process/verification,QATU01,P,U,0,NEITHER_E
+C07+C08,Assessment controls + authentic process/verification,UOB01,E,P,0,FIRST_ONLY_E
+C07+C08,Assessment controls + authentic process/verification,KU01,E,U,0,FIRST_ONLY_E
+C07+C08,Assessment controls + authentic process/verification,KAU01,E,E,1,BOTH_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,ADU01,E,U,0,FIRST_ONLY_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,AUS01,P,E,0,SECOND_ONLY_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,UAEU01,E,U,0,FIRST_ONLY_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,UOS01,E,E,1,BOTH_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,PNU01,E,U,0,FIRST_ONLY_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,QATU01,P,U,0,NEITHER_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,UOB01,E,U,0,FIRST_ONLY_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,KU01,E,U,0,FIRST_ONLY_E
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,KAU01,E,P,0,FIRST_ONLY_E

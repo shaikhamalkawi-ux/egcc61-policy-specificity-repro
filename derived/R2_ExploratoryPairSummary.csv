@@ -1,0 +1,5 @@
+pair,description,both_E,first_only_E,second_only_E,neither_E,n_documents,loo_both_min,loo_both_max
+C01+C04,Scope + general disclosure (positive control),9,0,0,0,9,8,8
+C04+C06,Disclosure duty + attribution/citation format,3,6,0,0,9,2,3
+C07+C08,Assessment controls + authentic process/verification,4,3,0,2,9,3,4
+C14+C17,Accountability/due process + detector non-sole-evidence safeguard,1,6,1,1,9,0,1
