@@ -49,7 +49,7 @@ assert orig['C06_E']==2 and orig['C08_E']==2 and orig['C17_E']==1 and orig['C17_
 
 names=list(rows[0])
 with (OUT/'R2I_ExhaustiveBroadCountrySubsets.csv').open('w',newline='',encoding='utf-8') as handle:
-    dw=csv.DictWriter(handle,fieldnames=names);dw.writeheader();dw.writerows(rows)
+    dw=csv.DictWriter(handle,fieldnames=names,lineterminator='\n');dw.writeheader();dw.writerows(rows)
 summary={
   'design':'All four admissible one-broad-per-eligible-jurisdiction compositions from the frozen nine-document matrix, excluding the specialized integrity and graduate texts',
   'combinations':len(rows),
