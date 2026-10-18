@@ -1,0 +1,19 @@
+# R2J source-qualification audit — C04 and C17 across fixed nine records
+
+This record documents **what was directly checked** and **what remains unverified**. E/P/U in the corrected CSV are documentary classifications, not assessments of implementation, fairness, institution quality or legal compliance. Only **KU01/C04 changed E→P**; all other 152 category cells are historical carry-overs. A source link cannot by itself establish the byte identity of a historical analytical copy.
+
+| Source | C04 corrected | C17 retained | Issuer text / source gate |
+|---|---|---|---|
+| ADU01 | E | U | Academic Integrity Policy v13 (16 Nov 2023), plagiarism of undeclared AI assistance; first-party PDF text examined |
+| AUS01 | E | E | GAI Teaching/Learning Policy 0.f (1 Jan 2024), mandatory AI-use acknowledgment; detector not definitive for misconduct; first-party text examined |
+| UAEU01 | E | U | Generative AI Student Policy (11 Aug 2025), Article 7 says *should* declare, but Article 10 treats unacknowledged AI-assisted content as plagiarism; issuer PDF text examined |
+| UOS01 | E | E | University of Sharjah graduate-policy Articles 5 and 10–12 corroborate relevant provisions; Feb/Mar 2026 adoption before historical cutoff, **exact original V15 edition and hash not recovered** |
+| PNU01 | E | U | GenAI Use Policy (Aug 2025) requires acknowledgment when allowed; bans faculty AI-detector use on student work, but this is distinct from original C17's narrow sole/conclusive **disciplinary** proof restriction; issuer document indexed; full historic bytes unavailable |
+| QATU01 | E | U | Qatar University instructions (25 Dec 2025) Article 3 requires scoped disclosure; issuer policy PDF text examined |
+| UOB01 | E (inherited) | U (inherited) | University of Bahrain 2025 AI Usage Regulation, official issuer registry found; full governing PDF clauses not independently inspected — **HOLD source verification** |
+| KU01 | **P (corrected)** | U | Kuwait University GenAI Policy (Nov 2024), pp. 3–4: faculty *may require* AI-use details, rather than a direct institutional disclosure obligation; issuer English PDF independently checked |
+| KAU01 | E (inherited) | P (inherited) | King Abdulaziz University guide, official register and issue date; full source PDF inaccessible in this audit — **HOLD source verification** |
+
+Sources: [ADU](https://cdn.adu.ac.ae/images-container/docs/default-source/oai/academic-integrity-policy.pdf); [AUS](https://aihub.aus.edu/wp-content/uploads/2025/09/FINAL-0.f.-Generative-AI-GAI-Tools-in-Teaching-Learning-Policy-January-1-2024.pdf); [UAEU](https://www.uaeu.ac.ae/en/about/pdfs/policies-2025/generative-ai-policy.pdf); [UOS](https://www.sharjah.ac.ae/-/media/project/uos/sites/uos/graduate-studies/bylaws-and-regulations/policy-on-the-responsible-use-of-artificial-intelligence-in-academic-texts.pdf); [PNU](https://pnu.edu.sa/ar/Deanship/Devandskilldean/ViceDeanshipofdevelopment/Documents/); [Qatar](https://www.qu.edu.qa/en-us/about/policy/Documents/Instructions%20onThe%20Use%20of%20Generative%20Artificial%20Intelligence%20Tools%20at%20Qatar%20University-Approved.pdf); [UOB registry](https://governance.uob.edu.bh/index.php?field-id=12&form-id=1); [Kuwait](https://www.ku.edu.kw/sites/default/files/2024-12/AI%20Policy%202024%20November%20-%20English_0.pdf); [KAU register](https://www.kau.edu.sa/en/internal-regulations/regulation/5258cc27-4a0d-4ab1-976e-687f567632fe).
+
+**Unresolved:** final original 39-record V15 source register, original UOS01 file and hash, exact historic UOB01 and KAU01 policy edition/underlying source passages, independent proof of every one of 153 decisions. No second-person coder or agreement measurements are claimed. All original V15 counts remain preserved separately as historical; they have not been silently deleted.
