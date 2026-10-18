@@ -1,0 +1,38 @@
+{
+  "design": "All four admissible one-broad-per-eligible-jurisdiction compositions from the frozen nine-document matrix, excluding the specialized integrity and graduate texts",
+  "combinations": 4,
+  "reused_source_matrix": "V15_PRIMARY_9x17_MATRIX_LOCKED.csv",
+  "one_country_baseline": [
+    "AUS01",
+    "KAU01",
+    "QATU01",
+    "UOB01",
+    "KU01"
+  ],
+  "E_C04_each": [
+    5,
+    5,
+    5,
+    5
+  ],
+  "both_E_C04_C06": [
+    2,
+    2,
+    1,
+    1
+  ],
+  "both_E_C07_C08": [
+    2,
+    2,
+    1,
+    1
+  ],
+  "both_E_C14_C17": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "descriptive post-hoc sensitivity, no new coded judgments or representativeness claims",
+  "caveat": "UOS01 is graduate-specific, excluded by the broad-policy admissibility criterion and still has a historical source-identity gate."
+}
