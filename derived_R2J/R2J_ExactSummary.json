@@ -1,0 +1,78 @@
+{
+  "n": 9,
+  "clauses": 17,
+  "states": 153,
+  "corrected_cells": 1,
+  "C04_EPU": [
+    8,
+    1,
+    0
+  ],
+  "C17_EPU": [
+    2,
+    1,
+    6
+  ],
+  "pairs": [
+    {
+      "pair": "C01_C04",
+      "both_E": 8,
+      "first_only_E": 1,
+      "second_only_E": 0,
+      "neither_E": 0
+    },
+    {
+      "pair": "C04_C06",
+      "both_E": 3,
+      "first_only_E": 5,
+      "second_only_E": 0,
+      "neither_E": 1
+    },
+    {
+      "pair": "C07_C08",
+      "both_E": 4,
+      "first_only_E": 3,
+      "second_only_E": 0,
+      "neither_E": 2
+    },
+    {
+      "pair": "C14_C17",
+      "both_E": 1,
+      "first_only_E": 6,
+      "second_only_E": 1,
+      "neither_E": 1
+    }
+  ],
+  "C01_C04_LOO_range": [
+    7,
+    8
+  ],
+  "five_broad_C04_EPU": [
+    4,
+    1,
+    0
+  ],
+  "four_balanced_composition_C04_EPU": [
+    [
+      4,
+      1,
+      0
+    ],
+    [
+      4,
+      1,
+      0
+    ],
+    [
+      4,
+      1,
+      0
+    ],
+    [
+      4,
+      1,
+      0
+    ]
+  ],
+  "limits": "One source-aligned KU01 C04 E to P correction; prior V15 retained. No source-vintage proof for UOS01."
+}
