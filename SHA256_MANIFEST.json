@@ -6,6 +6,7 @@
   "derived/R2I_BroadSubsetSummary.json": "b790159f5b0bb5d3ed525cc445609f1f2409b295113e93fae60ca8a03467258b",
   "derived/R2I_ExhaustiveBroadCountrySubsets.csv": "4d205cb82308d519a9f812c6a955bd284d718c148d28ce21303154d1202ac99c",
   "LICENSE_NOTICE.md": "9a6360da60df510e9885bc02352766649392d3f8351ea7593c3444732ef161aa",
+  "R2I_Critical_Source_Evidence_Register.csv": "fc1a60abe7834733a847014f5aa485f2706fa4ce2dfd387cb44d5f769e0177d9",
   "README.md": "875eb58eba80c96da7659ccc714fb32cbc784c290f47d3240ce822a49be25698",
   "reproduce_exhaustive_broad_subsets.py": "0aa5510f618867d13b9da2cdc86b3d42760c19134198a06eb238eb9d167f1d85",
   "reproduce_joint_clauses.py": "3950eedfdb03f41a3ce56378e583f8ec2cfed9ea4ff86cd6488ce0663dc86355",
