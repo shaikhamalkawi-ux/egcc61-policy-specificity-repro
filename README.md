@@ -1,5 +1,12 @@
 # GCC AI governance: reviewer reproducibility packet
 
+## Current science release — R2J (18 October 2026)
+
+**The R2J source-corrected matrix and its replay script supersede the original V15 and R2I numeric displays for journal-facing citation.** See [README_R2J.md](README_R2J.md), [R2J_PRIMARY_9x17_CORRECTED.csv](R2J_PRIMARY_9x17_CORRECTED.csv), [reproduce_r2j.py](reproduce_r2j.py), [R2J derived outputs](derived_R2J/), and [source-qualification register](R2J_SOURCE_QUALIFICATION.md). Exactly **one of 153** historical E/P/U classifications was changed on official-source review: **KU01/C04 E → P**. Corrected disclosure is **8 E, 1 P, 0 U** across the nine documents; the C04/C06 jointly explicit count stays **3/9**. The original files and older R2I discussion **below are preserved for historical reproducibility** and must not be mistaken for the corrected current counts.
+
+**Limitations:** Complete historical 39-record source register and original UOS01 source PDF/hashes not recovered; issuer full texts for UOB01 and KAU01 not fully independently checked. The findings concern the disclosed matrix, not actual university practice, legal compliance or population prevalence. No second-person coding, external validation or preprint DOI is claimed.
+
+
 This is an author-neutral archive for a full-length GCC public-documentary research manuscript under **double-anonymized peer review**. 
 
 ## Contents
