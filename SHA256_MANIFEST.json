@@ -1,4 +1,9 @@
 {
+  "derived_R2J/R2J_ClauseEPUMarginals.csv": "08abca7890d716678908dd2924df52baad9425ec6dfc433655372feb86fc63a1",
+  "derived_R2J/R2J_ExactSummary.json": "7b26f99c393f6e09d730e6dbc0a8a0dae4a0f8804beccb3ef6c64b6bfe5fbc5b",
+  "derived_R2J/R2J_FourCountryBalancedCompositions.csv": "59d81e6887be0ccfed8edf93b1c195789494d8fd72dc5f899a1e86c0a727defd",
+  "derived_R2J/R2J_FourPairPartitions.csv": "f3f95358dbd557b47b772c102216f6b1c8109cf6973ad9af8f8317b8ecdac182",
+  "derived_R2J/R2J_NineLeaveOneOut.csv": "0027ebc83c5388dd7930a309bf2669b1f39f26b4768d037064a4396cc5f456c9",
   "derived/R2_ExploratoryDocumentReplay.csv": "b3815ad179b277579f17ff9ece2d3c86eeaa1ec4f236235a286d4fea014c0022",
   "derived/R2_ExploratoryLOO.csv": "5b938fa47e7e4d273e5bd78ec54b8029f330b1f5e8a6714857206f6f309a9620",
   "derived/R2_ExploratoryPairSummary.csv": "9124896cd071f311079d6143c87aea4dbd7893e08d49b2a6733d6941819a43f3",
@@ -7,10 +12,16 @@
   "derived/R2I_ExhaustiveBroadCountrySubsets.csv": "4d205cb82308d519a9f812c6a955bd284d718c148d28ce21303154d1202ac99c",
   "LICENSE_NOTICE.md": "9a6360da60df510e9885bc02352766649392d3f8351ea7593c3444732ef161aa",
   "R2I_Critical_Source_Evidence_Register.csv": "fc1a60abe7834733a847014f5aa485f2706fa4ce2dfd387cb44d5f769e0177d9",
-  "README.md": "875eb58eba80c96da7659ccc714fb32cbc784c290f47d3240ce822a49be25698",
+  "R2J_PRIMARY_9x17_CORRECTED.csv": "4ae6cf0b77e0f6281f736c1dd448912b43a5d7f26d0abeadf2c8f41977c4eee2",
+  "R2J_SOURCE_QUALIFICATION.md": "53bc43df47594e654e7f8dd9467e2b3420536f2e5fcefac6a28255e87120c49c",
+  "README_R2J.md": "5f6a28537a3d441ff92c09f213f6ec2babfbb71e3227a07c5bacdd3dc111c5c9",
+  "README.md": "7e4ec0b06e7bcf5fdb5683eba04c44ea99c258b23d65d88997d37ccee0c3cd55",
   "reproduce_exhaustive_broad_subsets.py": "ea937fe56bd8732f3f532344611817c6b116ca9294d50268d5a1c18028479ec0",
   "reproduce_joint_clauses.py": "3950eedfdb03f41a3ce56378e583f8ec2cfed9ea4ff86cd6488ce0663dc86355",
+  "reproduce_r2j.py": "dbf6f2a8a7aa237ee04e5680ff001f1d8f7152ce05f292cf964b5b9ed12a753f",
   "run.sh": "1a9c2be735d22a2817dca2b07d7b41834a189ba5016421fa7cf93df3f332708c",
   "V15_PRIMARY_9x17_MATRIX_LOCKED.csv": "0d9078b71e5113ca30a6dd59a8e4ef9ac8d113ae7e7b3ac802535c204d0062e2",
-  "V15_PRIMARY_CHAIN_LOCKED.csv": "01abdcfaa3d130d14f6de3868e4ace6d03cc35e0a89f4450d9ef57dd7d6a4c09"
+  "V15_PRIMARY_9x17_ORIGINAL_HISTORY.csv": "0d9078b71e5113ca30a6dd59a8e4ef9ac8d113ae7e7b3ac802535c204d0062e2",
+  "V15_PRIMARY_CHAIN_LOCKED.csv": "01abdcfaa3d130d14f6de3868e4ace6d03cc35e0a89f4450d9ef57dd7d6a4c09",
+  "V15_PRIMARY_CHAIN_UNCHANGED.csv": "01abdcfaa3d130d14f6de3868e4ace6d03cc35e0a89f4450d9ef57dd7d6a4c09"
 }
